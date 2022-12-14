@@ -1,0 +1,12 @@
+Group Details - 
+
+Group No - 44
+
+    ID                        NAME                                    Email 
+2019B3A70630H          Harsh Vardhan Gupta            f20190630@hyderabad.bits-pilani.ac.in
+2019B3A70412H        Aryan Ramchandra Kapadia         f20190412@hyderabad.bits-pilani.ac.in
+2019B3A70487H              Dhruv Gupta                f20190487@hyderabad.bits-pilani.ac.in
+2019B5A71494H             Anirudh Shankar             f20191494@hyderabad.bits-pilani.ac.in
+2020A7PS2084H             Harshit Thakkar             f20202084@hyderabad.bits-pilani.ac.in
+2019B3A70613H                Anand                    f20190613@hyderabad.bits-pilani.ac.in
+                          
